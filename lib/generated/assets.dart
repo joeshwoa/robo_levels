@@ -20,6 +20,7 @@ class Assets {
   static const String lottieRobotFloating = 'assets/lottie/robot_floating.json';
   static const String lottieTerminal1 = 'assets/lottie/terminal_1.json';
   static const String lottieTerminal2 = 'assets/lottie/terminal_2.json';
+  static const String roboLevels = '.env';
   static const String videoIntro = 'assets/video/intro.mp4';
 
 }
